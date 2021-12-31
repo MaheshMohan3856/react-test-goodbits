@@ -1,0 +1,22 @@
+.MuiGrid-root.adminDataItem{
+    width: 97% !important;
+    margin: 5px 5px 5px 15px;
+    min-height: 47px;
+    color:#fff !important;
+    padding:7px;
+}
+.headerList{
+    font-size: 14px;
+    color:#fff !important;
+    word-break: break-word !important;
+    white-space: normal !important;
+    padding:9px 7px;
+}
+
+.heading{
+    color:#fff !important;
+    height:3rem !important;
+    display:flex !important;
+    justify-content:center !important;
+    padding-top:3rem !important;
+}
